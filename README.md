@@ -4,6 +4,6 @@ IoT-enabled line-following robot using a Raspberry Pi Pico W that connects to Ad
 
 Button on Adafruit dashboard must be pressed to begin the challenges
 
-An ultrasonic distance sensor as well for the third challenge in the competition
+An ultrasonic distance sensor utilized for the third challenge in the competition
 
 
