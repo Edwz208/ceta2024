@@ -38,7 +38,7 @@ const char ssid[] = "";               // (EDIT) SSID of desired Access Point
 const char pass[] = "";               // (EDIT) Required Passphrase (WPA2/Personal)
 
 // TCP Client Connection Parameters 
-const char broker[] = "test.mosquitto.org";    // server IP address or hostname
+const char broker[] = "io.adafruit.com";    // server IP address or hostname
 int port = 8883;                            // server port number
 
 // MQTT Client Session Parameters
